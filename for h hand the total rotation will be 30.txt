@@ -1,0 +1,3 @@
+for h hand the total rotation will be 30h+m/2
+for m hand the total rotation will be 6m
+for s hand the total rotation will be 6s
